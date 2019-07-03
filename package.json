@@ -1,0 +1,21 @@
+{
+  "name": "pocommit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "pocommit": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "P-Chan",
+  "license": "MIT",
+  "dependencies": {
+    "cac": "^6.5.2",
+    "consola": "^2.9.0",
+    "cosmiconfig": "^5.2.1",
+    "prompts": "^2.1.0",
+    "shelljs": "^0.8.3"
+  }
+}
